@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analyst
 - 🌱 I’m currently learning Data Visualization
 - 💞️ I’m looking to collaborate on Data Analyst
-- 📫 How to reach me deekshakumar133@gmail.com
+- 📫 How to reach me sonamvarshney2001@gmail.com
 
 🤝 I’m looking for an internship<br>
 🌱Currently I am a learner of the computer science field <br>
