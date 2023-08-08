@@ -12,7 +12,7 @@
     <img src="/assets/linkedin (2).png" width="48" alt="LinkedIn" />
   </a>
   
-  <a href="https://www.instagram.com/" title="Redirect to Instagram">
+  <a href="https://instagram.com/sonam_varshney_2710?utm_source=qr&igshid=ZDc4ODBmNjlmNQ%3D%3D" title="Redirect to Instagram">
     <img src="/assets/instagram (2).png" width="48" alt="Instagram" />
   </a>
 
