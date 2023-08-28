@@ -6,7 +6,7 @@
 
 🤝 I’m looking for an internship<br>
 🌱Currently I am a learner of the computer science field <br>
-💬 Ask me about C++, Python, Power BI, and data visualization.
+💬 Ask me about Python, Power BI, and data visualization.
 
   <a href="https://www.linkedin.com/in/sonamvarshney02/" title="Redirect to LinkedIn">
     <img src="/assets/linkedin (2).png" width="48" alt="LinkedIn" />
